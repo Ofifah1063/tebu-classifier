@@ -8,4 +8,4 @@ Aplikasi memprediksi 5 kelas: Healthy, Mosaic, RedRot, Rust, Yellow.
 
 ## Model
 Dilatih di Google Colab (T4 GPU) dengan early stopping.
-Dataset: Sugarcane Leaf Disease (Kaggle).# tebu-classifier
+Dataset: Sugarcane Leaf Disease (Kaggle).
